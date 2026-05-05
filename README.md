@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Bereket</h1>
-<h3 align="center">Software Engineering Student • Front-End Developer</h3>
+<h3 align="center">Software Engineering Student • Front-End Focused • Building Scalable Web Apps</h3>
 
 <p align="center">
-Building clean, performant, and scalable digital experiences.
+Building clean, performant, and user-focused digital experiences.
 </p>
 
 <p align="center">
@@ -13,18 +13,26 @@ Building clean, performant, and scalable digital experiences.
 
 ## 🚀 About Me
 
-I’m a Software Engineering student focused on building maintainable, user-centric applications with modern web technologies.
+I’m a Software Engineering student focused on building maintainable, scalable applications using modern web technologies.
+
+Recently, I’ve been developing full-stack applications with React and Node.js, focusing on reusable architecture, clean data flow, and practical problem-solving.
 
 I care about:
 
-* Writing clean, scalable code
-* Solving real engineering problems
-* Building products that feel intuitive
-* Constant technical improvement through hands-on projects
+* Writing clean, maintainable code
+* Designing scalable application structures
+* Building intuitive user experiences
+* Improving consistently through real-world projects
 
 ---
 
 ## ⚡ Core Stack
+
+### Primary Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,tailwind" />
+</p>
 
 ### Languages
 
@@ -52,11 +60,27 @@ I care about:
 
 ---
 
+## 📌 Featured Projects
+
+### 🎬 Movie App
+
+React-based movie management system with reusable form architecture and validation.
+
+### 🔐 Authentication System
+
+JWT-based authentication system using Node.js, Express, and MongoDB.
+
+### 🧾 Form Engine
+
+Reusable form handling system with structured validation and clean state management.
+
+---
+
 ## 🌱 Currently Exploring
 
 * 🤖 AI Automation & LLM Integration
 * ☁️ Cloud Engineering
-* 🏗 Scalable System Architecture
+* 🏗 Scalable System Design
 
 ---
 
@@ -89,8 +113,8 @@ I care about:
 
 ```ts
 const bereket = {
-  learning: ["Cloud", "AI Automation", "System Design"],
-  building: ["Full-stack applications", "React ecosystems"],
+  focus: ["Full-stack development", "System design"],
+  learning: ["Cloud", "AI Automation"],
   goal: "Become a high-impact software engineer"
 }
 ```
@@ -101,8 +125,8 @@ const bereket = {
 
 > **Consistency beats intensity**
 
-Ship often.
-Refactor ruthlessly.
-Keep learning.
+Ship consistently.
+Refactor deliberately.
+Keep improving.
 
 ---
