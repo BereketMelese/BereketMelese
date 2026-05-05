@@ -80,7 +80,7 @@ I care about:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BereketMelesre/BereketMelese/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
