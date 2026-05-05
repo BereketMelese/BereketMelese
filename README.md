@@ -1,85 +1,47 @@
-# 👋 Hi, I'm Bereket
+👋 Hi, I'm Bereket
 
-💻 Software Engineering Student
-🌟 Front-End Developer
+**Software Engineering Student & Passionate Front-End Developer**
 
-I enjoy building clean, responsive, and user-focused web applications. My focus is on writing maintainable code and turning ideas into practical, well-designed interfaces.
-
----
-
-## 🚀 About Me
-
-* 🎓 Software Engineering student (5th Year)
-* 🧠 Strong interest in problem-solving and system design
-* ⚡ Prefer learning by building real-world projects
-* 🎯 Currently focused on improving full-stack development skills
+I craft clean, performant, and pixel-perfect web experiences that solve real problems. Turning ideas into intuitive, scalable applications is what drives me.
 
 ---
 
-## 🛠 Tech Stack
+### 🚀 About Me
+- 🎓 5th-year Software Engineering Student
+- 🧠 Problem-solver who thrives on system design and clean architecture
+- ⚡ I learn best by building — real projects, real impact
+- 🔥 Currently leveling up my full-stack expertise while exploring modern web technologies
 
-### 💻 Languages
+### 🛠 Tech Stack
 
-* JavaScript (ES6+)
-* HTML5 & CSS3
-* Python
-* Java
+**Languages**
+- JavaScript (ES6+) & TypeScript
+- Python
+- Java
+- HTML5 & CSS3
 
-### ⚙️ Frameworks & Libraries
+**Frameworks & Libraries**
+- React • Next.js • Redux
+- Node.js • Express • NestJS
+- Tailwind CSS • SASS • Bootstrap
+- jQuery
 
-* React
-* Redux
-* Next.js
-* Node.js
-* Express.js
-* NestJS
-* Tailwind CSS
-* Bootstrap
-* SASS
-* jQuery
-
-### 🧰 Tools & Workflow
-
-* Git & GitHub
-* VS Code
-* npm
-* Webpack
+**Tools & Workflow**
+- Git & GitHub
+- VS Code
+- npm • pnpm • Yarn
+- Webpack • Vite
+- Linux & Terminal
 
 ---
 
-## 🌱 Currently Learning
-
-* 🤖 AI Automation
-* ☁️ Cloud Engineering
-
----
-
-## 📌 Featured Projects
-
-> *(Replace these with your actual projects)*
-
-* 🎬 Movie App — React-based movie management system
-* 🧾 Form Validation System — Reusable form handling with Joi
-* 🔐 Auth System — JWT-based authentication using Node.js
+### 🌱 Currently Exploring
+- 🤖 AI Automation & LLM Integration
+- ☁️ Cloud Engineering (AWS & Vercel)
+- Advanced System Design & Scalable Architecture
 
 ---
 
-## 📈 GitHub Stats
 
-![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: *(add if you have one)*
-
----
-
-## ⚡ Personal Note
-
-I believe consistency beats intensity.
-Building, breaking, and improving—every single day.
-
----
+**"Consistency beats intensity."**  
+I believe in shipping daily, refactoring relentlessly, and writing code that future me will thank me for.
