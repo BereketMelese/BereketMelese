@@ -60,22 +60,6 @@ I care about:
 
 ---
 
-## 📌 Featured Projects
-
-### 🎬 Movie App
-
-React-based movie management system with reusable form architecture and validation.
-
-### 🔐 Authentication System
-
-JWT-based authentication system using Node.js, Express, and MongoDB.
-
-### 🧾 Form Engine
-
-Reusable form handling system with structured validation and clean state management.
-
----
-
 ## 🌱 Currently Exploring
 
 * 🤖 AI Automation & LLM Integration
