@@ -1,102 +1,35 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Bereket%20Melese&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Bereket Melese banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Crafting+modern+web+applications;React+%7C+Node.js+%7C+Laravel;Turning+ideas+into+real+products;Learning+by+building+every+day" alt="Typing animation" />
-</p>
+# 👋 Hi, I'm Bereket
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BereketMelese&label=Profile%20views&color=3b82f6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BereketMelese?label=Followers&style=flat&color=3b82f6" alt="Followers" />
-</p>
+### Software Engineering Student • Front-End Focused • Building Scalable Web Apps
 
-<p align="center">
-  <a href="https://github.com/BereketMelese"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+Building clean, performant, and user-focused digital experiences.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+modern+web+applications;Turning+ideas+into+real+products;Learning+by+building+every+day" />
+
+[![Profile views](https://komarev.com/ghpvc/?username=BereketMelese&style=flat-square&color=6C63FF)](https://github.com/BereketMelese)
+[![GitHub followers](https://img.shields.io/github/followers/BereketMelese?style=flat-square&label=Followers&color=6C63FF)](https://github.com/BereketMelese?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/BereketMelese?style=flat-square&color=FF6584)](https://github.com/BereketMelese/stargazers)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineering student who builds clean, performant, and user-focused web applications. I work across the stack, from polished React and Next.js interfaces to Node.js and Laravel backends, with an emphasis on reusable architecture and clear data flow.
+I'm a Software Engineering student focused on building maintainable, scalable applications using modern web technologies.
 
-- 🔭 Building full-stack apps with **React, Node.js, and Laravel**
-- 🧱 Designing maintainable, scalable application structures
-- 🎯 Caring about UX details as much as code quality
-- 📈 Improving a little every day through real projects
+Recently, I've been developing full-stack applications with **React** and **Node.js** — and digging deeper into **PHP / Laravel** on the backend — focusing on reusable architecture, clean data flow, and practical problem-solving.
 
----
-
-## ⚡ Tech Stack
-
-| | Technologies |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,html,css" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,nestjs" /> |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,vite,webpack,linux" /> |
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 AI automation and LLM integration
-- ☁️ Cloud engineering
-- 🏗 Scalable system design
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace the repo names below with your own. Pinned-repo cards update automatically. -->
-<p align="center">
-  <a href="https://github.com/BereketMelese/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BereketMelese&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/BereketMelese/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BereketMelese&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🎯 Current Focus
+- 🌱 Currently learning **Cloud Engineering** & **AI Automation**
+- 🔭 Building full-stack web applications end to end
+- 🎯 Goal: become a high-impact software engineer
+- ⚡ Fun fact: I learn best by shipping real projects
 
 ```ts
 const bereket = {
-  role: "Software Engineering Student",
   focus: ["Full-stack development", "System design"],
-  stack: ["React", "Next.js", "Node.js", "Laravel", "TypeScript", "PHP"],
   learning: ["Cloud", "AI Automation"],
   goal: "Become a high-impact software engineer",
 };
@@ -104,12 +37,105 @@ const bereket = {
 
 ---
 
-## 💡 Philosophy
+## ⚡ Core Stack
 
-> **Consistency beats intensity.**
+### Primary Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,php,ts" />
+</p>
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs" />
+</p>
+
+### Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,vite,webpack,docker,linux" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+| 🤖 AI Automation & LLM Integration | ☁️ Cloud Engineering | 🏗 Scalable System Design |
+| :---: | :---: | :---: |
+| Building agents & workflow automation | Deploying and scaling cloud-native apps | Designing systems that grow with demand |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BereketMelese&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BereketMelese&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/BereketMelese?tab=overview">
+    <img src="https://github-readme-stats.vercel.app/api/profile-views/?username=BereketMelese&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BereketMelese&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```ts
+const bereket = {
+  focus: ["Full-stack development", "System design"],
+  learning: ["Cloud", "AI Automation"],
+  goal: "Become a high-impact software engineer",
+};
+```
+
+---
+
+## 📜 Philosophy
+
+> **Consistency beats intensity**
 
 Ship consistently. Refactor deliberately. Keep improving.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" alt="Footer" />
-</p>
+---
+
+<div align="center">
+
+### 💬 "Code is read more often than it is written."
+
+Thanks for visiting my profile! ⭐
+
+</div>
