@@ -68,20 +68,13 @@ I'm a Software Engineering student who builds clean, performant, and user-focuse
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BereketMelese&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BereketMelese&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BereketMelese&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BereketMelese&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img height="180" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </p>
 
 ---
@@ -89,7 +82,10 @@ I'm a Software Engineering student who builds clean, performant, and user-focuse
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/BereketMelese/BereketMelese/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
